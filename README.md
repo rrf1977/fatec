@@ -1,2 +1,4 @@
-# rrf
-Temporary description: I've just created this account; I'm unsure if I'll stay, let me form some opinion about GitHub community first. 
+#!/fatec
+#git voltado a assuntos e trabalhos de faculdade. 31/mai/2020
+#----------------------
+#git prone to college work and subjects. May/31/2020
