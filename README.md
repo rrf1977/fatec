@@ -1,4 +1,4 @@
 # !/fatec
-# conta voltado a assuntos e trabalhos de faculdade. 31/mai/2020
+# conta voltada a assuntos e trabalhos de faculdade. 31/mai/2020
 # ----------------------
 # account prone to college work and subjects. May/31/2020
